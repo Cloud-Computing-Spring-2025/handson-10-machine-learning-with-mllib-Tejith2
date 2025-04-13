@@ -1,0 +1,19 @@
+ INFO RandomForest:   init: 1.0959E-5
+  total: 0.061604083
+  findBestSplits: 0.061474041
+  chooseSplits: 0.061402375
+   INFO GradientBoostedTrees:   building tree 4: 0.062196833
+  buildMetadata: 0.029402
+  init: 1.5833E-5
+  total: 0.707777667
+  building tree 3: 0.062508834
+  building tree 6: 0.064000709
+  building tree 0: 0.119181958
+  building tree 9: 0.068224667
+  building tree 8: 0.066792292
+  building tree 2: 0.062448541
+  building tree 5: 0.063938875
+  findSplits: 0.019418709
+  building tree 7: 0.064843916
+  building tree 1: 0.061432792
+
